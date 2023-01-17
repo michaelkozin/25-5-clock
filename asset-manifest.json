@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/25-5-clock/static/css/main.073c9b0a.css",
-    "main.js": "/25-5-clock/static/js/main.6cb78c5d.js",
+    "main.css": "/25-5-clock/static/css/main.cc3a9d4b.css",
+    "main.js": "/25-5-clock/static/js/main.f5f06c72.js",
     "static/js/787.1f5f3708.chunk.js": "/25-5-clock/static/js/787.1f5f3708.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/25-5-clock/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/25-5-clock/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/logo.svg": "/25-5-clock/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/25-5-clock/index.html",
-    "main.073c9b0a.css.map": "/25-5-clock/static/css/main.073c9b0a.css.map",
-    "main.6cb78c5d.js.map": "/25-5-clock/static/js/main.6cb78c5d.js.map",
+    "main.cc3a9d4b.css.map": "/25-5-clock/static/css/main.cc3a9d4b.css.map",
+    "main.f5f06c72.js.map": "/25-5-clock/static/js/main.f5f06c72.js.map",
     "787.1f5f3708.chunk.js.map": "/25-5-clock/static/js/787.1f5f3708.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6cb78c5d.js"
+    "static/css/main.cc3a9d4b.css",
+    "static/js/main.f5f06c72.js"
   ]
 }
